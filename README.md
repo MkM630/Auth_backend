@@ -6,3 +6,5 @@ This backend includes signup, signin, info, and logout APIs, which can be tested
 - Signin: http://localhost:8081/api/auth/signin
 - Logout: http://localhost:8081/api/auth/logout
 
+   You can test the APIs by Postman site
+
